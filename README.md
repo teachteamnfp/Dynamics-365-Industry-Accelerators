@@ -1,3 +1,17 @@
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnyanhp%2FAzureCloudGaming%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2Fnyanhp%2FAzureCloudGaming%2Fmaster%2Fazuredeploy.json" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/>
+</a>
+
+
+
+
+
+
+
 # We are migrating (Work In-Progress)
 As we are growing and building multiple accelerators, we started the work to separate the current repository "Microsoft/Dynamics-365-Industry-Accelerators" into multiple repositories based on the business verticals. here are the below new Industry accelerator repositories reference.
 
@@ -35,7 +49,7 @@ And others
 Industry Solution Accelerators enable you to build solutions on the Microsoft Power Platform that connect to your 
 existing 3rd party applications, embed new applications on Dynamics 365 and extend existing first party application, 
 such as Sales, Service and Marketing. Resources have been allocated across Microsoft Product Groups, Field, Sales, Marketing, 
-OCP and Industry Vertical Teams to identify Partners, SI’s, ISVs and Customers to partner with Microsoft to shape and deliver 
+OCP and Industry Vertical Teams to identify Partners, SIâ€™s, ISVs and Customers to partner with Microsoft to shape and deliver 
 solutions on top of our accelerators. 
 
 Interested in contributing to an Industry Accelerator please sign up : https://aka.ms/cdmengage
